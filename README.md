@@ -16,7 +16,6 @@ Each dashboard has:
 ✔ Screenshots
 ✔ Dataset
 ✔ PBIX file
-✔ DAX documentation
 
 ---
 
