@@ -1,4 +1,4 @@
-#  **Power BI Dashboards Portfolio**
+#  **Power BI Dashboards **
 
 Welcome to my **Business Intelligence & Data Analytics portfolio**.
 This repository contains multiple end-to-end dashboards built using:
