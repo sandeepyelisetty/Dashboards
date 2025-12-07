@@ -8,8 +8,6 @@ Using a BI industry-standard approach, the dataset was **cleaned**, **modeled us
 
 ---
 
-#  TECHNICAL HIGHLIGHTS
-
 ##  Tools & Skills Used
 - **Power BI**
 - **DAX Measures**
