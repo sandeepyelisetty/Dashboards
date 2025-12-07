@@ -45,3 +45,4 @@ This project demonstrates my ability to:
 
 Data Source: https://www.kaggle.com/datasets/prasad22/healthcare-dataset/data
 
+<img width="1253" height="735" alt="HealthCare_Data_Analysis_Dashboard" src="https://github.com/user-attachments/assets/ce2ab460-5570-4654-a2a4-ecd1d02dab24" />
