@@ -19,7 +19,7 @@ Using a BI industry-standard approach, the dataset was **cleaned**, **modeled us
 
 #  INSIGHTS DISCOVERED
 
-- **Arthritis and Diabetes** are the highest-volume medical conditions.  
+- **Arthritis ** are the highest-volume medical conditions.  
 - **Cigna and Medicare** contribute the majority of payer billing.  
 - **Emergency admissions** drive more than 50% of patient volume.  
 - Patient gender distribution is nearly **balanced (≈50/50)**.  
@@ -45,4 +45,5 @@ This project demonstrates my ability to:
 
 Data Source: https://www.kaggle.com/datasets/prasad22/healthcare-dataset/data
 
-<img width="1253" height="735" alt="HealthCare_Data_Analysis_Dashboard" src="https://github.com/user-attachments/assets/ce2ab460-5570-4654-a2a4-ecd1d02dab24" />
+<img width="1031" height="730" alt="Healthcare_Data_Analysis" src="https://github.com/user-attachments/assets/52568540-d87f-4beb-b58e-8a529ec88638" />
+
