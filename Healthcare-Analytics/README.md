@@ -28,11 +28,6 @@ Using a BI industry-standard approach, the dataset was **cleaned**, **modeled us
 
 ---
 
-# DASHBOARD PREVIEW
-(Add your screenshots here)
-
----
-
 # 📂 FILES INCLUDED
 - `Healthcare-Analytics-Dashboard.pbix`
 - `healthcare_dataset.csv`
