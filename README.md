@@ -34,9 +34,7 @@ Each dashboard has:
 * Power Query
 * DAX
 * SQL
-* Excel
 * Data Modeling (Star Schema)
-* Python (optional if used for cleaning)
 
 ---
 
