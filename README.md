@@ -31,6 +31,7 @@ Each dashboard has:
 ## **Tech Stack**
 
 * Power BI
+* Tableau
 * Power Query
 * DAX
 * SQL
